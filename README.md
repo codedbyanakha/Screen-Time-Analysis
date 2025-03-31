@@ -16,6 +16,12 @@ Used Excel for data entry.
 Convented the screen time from hours to minutes
 Categorized the apps (social media, Entertainment, communication)
 
+Tools Used
+
+Excel: Data collection, cleaning, and preprocessing
+
+Tableau: Data visualization and dashboard creation
+
 VISUALIZATIONS & INSIGHTS.
 
 The data was then imported into tableau for visualization and analysis
