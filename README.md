@@ -30,10 +30,15 @@ Social media, communication and entertainment categories were analysed. The larg
 WhatsApp was the most frequently opened app of the week followed by Phone and Instagram, while Spotify was the least opened app.
 
 OBSERVATIONS/FINDINGS
+
 • Excessive social media usage was observed, indicating a possible distraction.
-•High entertainment screen time suggests the need for time management.
+
+• High entertainment screen time suggests the need for time management.
+
 • Communication app usage was lower, which can be improved.
 
 RECOMMENDATIONS
+
 • Set app usage limits to reduce time spent on social media apps.
+
 • Schedule screen-free hours to improve focus and health.
