@@ -5,9 +5,11 @@ Screen time impacts productivity, social interaction and well-being. The project
 The analyses focuses on 5 apps - Instagram, WhatsApp, YouTube, Spotify and Phone
 
 DATA COLLECTION & PREPARATION.
+
 1). Data Sourus.
 The data was collected from phone settings (Digital Wellbeing/Screen Time)
 Used Excel for data entry.
+
 
 2). Data Cleaning & Preprocessing
 Convented the screen time from hours to minutes
