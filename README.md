@@ -1,7 +1,7 @@
 # Screen-Time-Analysis
 SCREEN TIME ANALYSIS.
 
-Screenn time impacts productivity, social interaction and well-being. The project aims to analyse the phone screen time for a week, from February 9 to February 15. The goal is to identify patterns in app usage.
+Screen time impacts productivity, social interaction and well-being. The project aims to analyse the phone screen time for a week, from February 9 to February 15. The goal is to identify patterns in app usage.
 The analyses focuses on 5 apps - Instagram, WhatsApp, YouTube, Spotify and Phone
 
 DATA COLLECTION & PREPARATION.
