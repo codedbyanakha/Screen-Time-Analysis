@@ -2,6 +2,7 @@
 SCREEN TIME ANALYSIS.
 
 Screen time impacts productivity, social interaction and well-being. The project aims to analyse the phone screen time for a week, from February 9 to February 15. The goal is to identify patterns in app usage.
+
 The analyses focuses on 5 apps - Instagram, WhatsApp, YouTube, Spotify and Phone
 
 DATA COLLECTION & PREPARATION.
@@ -16,6 +17,7 @@ Convented the screen time from hours to minutes
 Categorized the apps (social media, Entertainment, communication)
 
 VISUALIZATIONS & INSIGHTS.
+
 The data was then imported into tableau for visualization and analysis
 
 1). Bar Chart (Total screen time per app) -
