@@ -1,54 +1,48 @@
-# Screen-Time-Analysis
-SCREEN TIME ANALYSIS.
+# Screen Time Analysis Project (Data Visualization Case Study)
+This project focuses on analyzing personal mobile screen time data over a one-week period (February 9–15, 2025) to understand app usage behavior and its impact on productivity and well-being.
+The analysis identifies patterns across five major applications — Instagram, WhatsApp, YouTube, Spotify, and Phone — using Excel for data processing and Tableau for visualization.
 
-Screen time impacts productivity, social interaction and well-being. The project aims to analyse the phone screen time for a week, from February 9 to February 15. The goal is to identify patterns in app usage.
+PROJECT OVERVIEW
 
-The analyses focuses on 5 apps - Instagram, WhatsApp, YouTube, Spotify and Phone
+Role: Data Analyst
+Duration: February 2025 (1 week)
+Mode: Independent Study | Self-Recorded Data
+Dataset: Collected manually from Digital Wellbeing / Screen Time settings
 
-DATA COLLECTION & PREPARATION.
+TASK STRUCTURE
+Level 1: Data Collection & Preparation
+| Task | Title          | Description                                                                   |
+| ---- | -------------- | ----------------------------------------------------------------------------- |
+| 1    | Data Source    | Gathered raw data from mobile phone settings (Digital Wellbeing).             |
+| 2    | Data Entry     | Entered daily screen time for selected apps into Excel.                       |
+| 3    | Data Cleaning  | Converted screen time from hours to minutes for consistency.                  |
+| 4    | Categorization | Grouped apps into categories: Social Media, Communication, and Entertainment. |
 
-1). Data Sourus.
-The data was collected from phone settings (Digital Wellbeing/Screen Time)
-Used Excel for data entry.
+Level 2: Visualization & Analysis
+| Task | Title                           | Description                                                                             |
+| ---- | ------------------------------- | --------------------------------------------------------------------------------------- |
+| 1    | Total Screen Time (Bar Chart)   | Compared total screen time per app; Instagram had the highest usage, Spotify the least. |
+| 2    | Weekly Trend (Line Chart)       | Analyzed daily screen time patterns; peak usage occurred on February 14.                |
+| 3    | Category Distribution (Treemap) | Visualized time spent by category; Social Media dominated usage share.                  |
+| 4    | Usage Frequency (Pie Chart)     | WhatsApp was the most frequently opened app, followed by Phone and Instagram.           |
 
+Level 3: Insights & Recommendations
+| Task | Title              | Description                                                                                                 |
+| ---- | ------------------ | ----------------------------------------------------------------------------------------------------------- |
+| 1    | Observations       | Found high social media and entertainment screen time, suggesting distractions.                             |
+| 2    | Behavioral Insight | Communication app usage was comparatively lower, indicating potential under-engagement.                     |
+| 3    | Recommendations    | Proposed setting app usage limits and scheduling screen-free hours to improve focus and digital well-being. |
 
-2). Data Cleaning & Preprocessing
-Convented the screen time from hours to minutes
-Categorized the apps (social media, Entertainment, communication)
+TOOLS USED
+| Category            | Tools / Platforms                                        |
+| ------------------- | -------------------------------------------------------- |
+| Data Collection     | Excel (Digital Wellbeing Export & Manual Entry)          |
+| Data Processing     | Excel (Cleaning & Categorization)                        |
+| Visualization       | Tableau (Interactive Dashboards)                         |
+| Analysis Techniques | Time-Series Trend, Category Analysis, Frequency Analysis |
 
-Tools Used
+OUTCOME
 
-Excel: Data collection, cleaning, and preprocessing
-
-Tableau: Data visualization and dashboard creation
-
-VISUALIZATIONS & INSIGHTS.
-
-The data was then imported into tableau for visualization and analysis
-
-1). Bar Chart (Total screen time per app) -
-The most used app was Intagnam, with a total of 992 minutes followed by Youtube, Whatsapp and Phone, while Spotify was the least used app.
-
-2). Line Chart (Screen time trend over a week)-
-The highest screen time was recorded on 14 February with a usage frequemy of 127.
-The lowest screen time mas on 9 February with a usage frequency. of 43. An increase in screen time was observed throughout the week.
-
-3). Treemap Chart  (Screen time distribuition by category)-
-Social media, communication and entertainment categories were analysed. The largest category was social media.
-
-4). Pie Chart  (Percentage of Tolal app usage frequency) -
-WhatsApp was the most frequently opened app of the week followed by Phone and Instagram, while Spotify was the least opened app.
-
-OBSERVATIONS/FINDINGS
-
-• Excessive social media usage was observed, indicating a possible distraction.
-
-• High entertainment screen time suggests the need for time management.
-
-• Communication app usage was lower, which can be improved.
-
-RECOMMENDATIONS
-
-• Set app usage limits to reduce time spent on social media apps.
-
-• Schedule screen-free hours to improve focus and health.
+This study effectively visualized daily and weekly app usage patterns to identify behavioral trends and improvement areas.
+Findings emphasized excessive social media engagement and a growing trend in entertainment usage toward the end of the week.
+The insights and recommendations support better digital time management and promote healthier technology habits.
