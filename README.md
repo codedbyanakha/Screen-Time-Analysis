@@ -1,7 +1,5 @@
 # Screen Time Analysis Project (Data Visualization Case Study)
-This project focuses on analyzing personal mobile screen time data over a one-week period (February 9–15, 2025) to understand app usage behavior and its impact on productivity and well-being.
-The analysis identifies patterns across five major applications — Instagram, WhatsApp, YouTube, Spotify, and Phone — using Excel for data processing and Tableau for visualization.
-
+This project analyzes personal mobile screen time data over a one-week period (February 9–15, 2025) to understand app usage behavior, productivity balance, and digital well-being. The analysis focuses on usage patterns across five major applications — WhatsApp, Phone, Instagram, YouTube, and Spotify — using Microsoft Power BI for interactive data visualization.
 PROJECT OVERVIEW
 
 Role: Data Analyst
@@ -18,31 +16,33 @@ Level 1: Data Collection & Preparation
 | 3    | Data Cleaning  | Converted screen time from hours to minutes for consistency.                  |
 | 4    | Categorization | Grouped apps into categories: Social Media, Communication, and Entertainment. |
 
-Level 2: Visualization & Analysis
-| Task | Title                           | Description                                                                             |
-| ---- | ------------------------------- | --------------------------------------------------------------------------------------- |
-| 1    | Total Screen Time (Bar Chart)   | Compared total screen time per app; Instagram had the highest usage, Spotify the least. |
-| 2    | Weekly Trend (Line Chart)       | Analyzed daily screen time patterns; peak usage occurred on February 14.                |
-| 3    | Category Distribution (Treemap) | Visualized time spent by category; Social Media dominated usage share.                  |
-| 4    | Usage Frequency (Pie Chart)     | WhatsApp was the most frequently opened app, followed by Phone and Instagram.           |
+Level 2: Visualization & Analysis (Power BI Dashboard)
+| Task | Visualization                             | Key Findings                                                                             |
+| ---- | ----------------------------------------- | ---------------------------------------------------------------------------------------- |
+| 1    | **Bar Chart — Usage Frequency by App**    | WhatsApp was the most frequently used app, followed by Phone and Instagram.              |
+| 2    | **Line Chart — Usage Frequency by Date**  | Daily screen time fluctuated, peaking on February 15.                                    |
+| 3    | **Donut Chart — Screen Time by Category** | Social Media dominated overall screen time, accounting for over 60%.                     |
+| 4    | **Area Chart — Screen Time by Category**  | Social Media usage was highest, while Communication and Entertainment were lower.        |
+| 5    | **Treemap — Category & App Distribution** | Social Media apps (Instagram, WhatsApp) occupied the largest share of total screen time. |
+
 
 Level 3: Insights & Recommendations
-| Task | Title              | Description                                                                                                 |
-| ---- | ------------------ | ----------------------------------------------------------------------------------------------------------- |
-| 1    | Observations       | Found high social media and entertainment screen time, suggesting distractions.                             |
-| 2    | Behavioral Insight | Communication app usage was comparatively lower, indicating potential under-engagement.                     |
-| 3    | Recommendations    | Proposed setting app usage limits and scheduling screen-free hours to improve focus and digital well-being. |
+| Type                   | Description                                                                                           |
+| ---------------------- | ----------------------------------------------------------------------------------------------------- |
+| **Observations**       | High social media screen time suggests potential distractions and reduced productivity.               |
+| **Behavioral Insight** | Communication app usage was lower, indicating limited interpersonal engagement.                       |
+| **Recommendations**    | Set daily app usage limits and introduce “screen-free” hours to improve focus and digital well-being. |
+
 
 TOOLS USED
-| Category            | Tools / Platforms                                        |
-| ------------------- | -------------------------------------------------------- |
-| Data Collection     | Excel (Digital Wellbeing Export & Manual Entry)          |
-| Data Processing     | Excel (Cleaning & Categorization)                        |
-| Visualization       | Tableau (Interactive Dashboards)                         |
-| Analysis Techniques | Time-Series Trend, Category Analysis, Frequency Analysis |
+| Category                | Tools / Platforms                                       |
+| ----------------------- | ------------------------------------------------------- |
+| **Data Collection**     | Excel (Manual Recording)                                |
+| **Data Processing**     | Excel (Formatting & Cleaning)                           |
+| **Visualization**       | Power BI (Interactive Dashboard)                        |
+| **Analysis Techniques** | Trend Analysis, Frequency Analysis, Category Comparison |
+
 
 OUTCOME
 
-This study effectively visualized daily and weekly app usage patterns to identify behavioral trends and improvement areas.
-Findings emphasized excessive social media engagement and a growing trend in entertainment usage toward the end of the week.
-The insights and recommendations support better digital time management and promote healthier technology habits.
+This Power BI dashboard provides a clear visualization of screen time behavior, highlighting how social media apps dominate user attention and how daily trends evolve over time. The insights emphasize the importance of digital balance, encouraging healthier technology habits and mindful app engagement.
