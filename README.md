@@ -21,6 +21,7 @@ This project aims to analyze and visualize daily mobile usage behavior to identi
 | **Instagram** | Social Media  | 💗 Pink (#E1306C)       | Reflects creativity, engagement, and visual expression.   |
 | **YouTube**   | Entertainment | 🔴 Red (#FF0000)        | Denotes stimulation, attention, and energy.               |
 | **Spotify**   | Entertainment | 🟩 Dark Green (#1DB954) | Represents rhythm, balance, and immersive listening.      |
+
 The consistent color palette improves visual grouping — dark blue for Communication, dark green for Social Media, and dark red for Entertainment — while white text on a gray background enhances readability and contrast across all visuals.
 
 🔍 APPROACH
